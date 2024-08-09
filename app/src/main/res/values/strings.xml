@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewYorkProject</string>
+    <string name="app_name">Users List </string>
     <string name="search_for_articles">Search for articles…</string>
     <string name="search_articles">Search Articles</string>
     <string name="search">Search</string>

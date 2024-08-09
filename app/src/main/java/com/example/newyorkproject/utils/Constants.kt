@@ -1,24 +1,5 @@
 package com.example.newyorkproject.utils
 
-
 object Constants {
-
-    //End Points
-    const val POPULAR_ARTICLES_END_POINT = "mostpopular/v2/{type}/{period}.json"
-    const val SEARCH_ARTICLES_END_POINT = "search/v2/articlesearch.json"
-
-    const val PERIOD = "30" // 1, 7 , 30 Days
-
-    const val SEARCH_TIME_DELAY = 300L
-
-    const val MOST_VIEWED = "viewed"
-    const val MOST_EMAILED = "emailed"
-    const val MOST_SHARED = "shared"
-
-    const val NO_INTERNET = "No internet connection"
-    const val SOMETHING_WENT_WRONG = "An unknown error occurred"
-        const val BASE_URL = "https://api.nytimes.com/svc/"
-
-        const val API_KEY = "q3bzP5tg6ZGtRJoVn0kyGamEUE1vkOdk"
-
+    const val BASE_URL = "https://jsonplaceholder.typicode.com/"
 }
